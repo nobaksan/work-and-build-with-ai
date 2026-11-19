@@ -1,0 +1,8 @@
+# 썸네일 자동 생성
+블로그 글 제목과 내용을 기반으로
+DALL-E/Midjourney 프롬프트 자동 생성:
+제목: "ChatGPT로 이메일 시간 90% 줄이기"
+추천 이미지 프롬프트:
+"Minimalist illustration of a person at desk,
+email icons floating away, clock showing speed,
+clean modern style, blue and white color scheme"

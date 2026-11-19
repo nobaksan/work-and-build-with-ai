@@ -1,0 +1,17 @@
+간단한 할 일 관리 스크립트를 만들어줘.
+
+기능:
+- 할 일 추가: add "내용" --priority high --due tomorrow
+- 할 일 목록: list [--today] [--priority high] [--all]
+- 완료 체크: done [id]
+- 삭제: remove [id]
+- 수정: edit [id] --content "새 내용" --priority medium
+
+데이터는 data/todos.json에 저장
+출력은 예쁘게 (이모지 포함)
+한글 날짜 표시 지원
+
+추가로:
+- 마감일 지난 항목은 빨간색으로 강조
+- 완료된 항목은 별도 섹션에 표시
+- 통계 정보 (완료율, 진행중 등)

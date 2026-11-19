@@ -1,0 +1,6 @@
+# 모든 변경사항 취소 (위험!)
+git checkout .
+git clean -fd
+# 특정 커밋으로 되돌리기
+git log --oneline  # 커밋 해시 확인
+git reset --hard [커밋해시]

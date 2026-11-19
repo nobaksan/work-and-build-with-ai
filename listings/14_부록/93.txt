@@ -1,0 +1,11 @@
+# Git 설치 확인
+git --version
+# Git 사용자 설정 (처음 사용 시)
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+# 변경사항 충돌 시
+git stash
+git pull
+git stash pop
+# 잘못된 커밋 취소
+git reset --soft HEAD~1

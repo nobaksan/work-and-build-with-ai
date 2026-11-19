@@ -1,0 +1,30 @@
+대시보드 공유 방법
+
+1 로컬 공유 (같은 네트워크)
+
+streamlit run app.py --server.address 0.0.0.0
+→ 같은 Wi-Fi 사용자에게 IP 공유
+→ http://192.168.1.100:8501
+2 Streamlit Cloud (무료)
+
+- GitHub에 코드 업로드
+- share.streamlit.io에서 배포
+- 누구나 접근 가능한 URL 생성
+Claude에게 요청:
+"Streamlit Cloud에 배포하는 방법 알려줘"
+3 회사 서버에 배포
+
+- Docker로 패키징
+- 회사 서버에 설치
+- 내부 도메인 연결
+Claude에게 요청:
+"이 대시보드를 Docker로 패키징해줘"
+4 정적 리포트로 공유
+
+- PDF/HTML로 내보내기
+- 이메일로 전송
+- 매주 자동 생성 설정
+Claude에게 요청:
+"매주 월요일 아침 9시에
+자동으로 리포트 생성해서
+이메일로 보내는 기능 만들어줘"

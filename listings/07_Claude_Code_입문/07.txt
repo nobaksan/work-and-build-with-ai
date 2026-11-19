@@ -1,0 +1,4 @@
+pwd
+# 결과: /Users/username/Documents
+
+길을 잃었을 때 pwd로 현재 위치를 확인하세요!

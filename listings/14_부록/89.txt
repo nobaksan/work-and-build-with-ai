@@ -1,0 +1,5 @@
+# sudo npm install 은 쓰지 않는다 (공식 안내가 금지)
+# npm 으로 설치하다 권한 오류가 났다면 네이티브 설치로 바꾼다
+curl -fsSL https://claude.ai/install.sh | bash
+# Windows PowerShell
+irm https://claude.ai/install.ps1 | iex

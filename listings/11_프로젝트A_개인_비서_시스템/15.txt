@@ -1,0 +1,5 @@
+# 필요한 패키지 설치
+pip install google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+# 설치 확인
+python -c "from googleapiclient.discovery import build; print(' 설치 완료')"

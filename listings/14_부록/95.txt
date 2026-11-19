@@ -1,0 +1,8 @@
+# pip 업그레이드
+python -m pip install --upgrade pip
+# 충돌 해결
+pip install --force-reinstall [패키지명]
+# 가상환경 새로 생성
+python -m venv venv --clear
+source venv/bin/activate
+pip install -r requirements.txt

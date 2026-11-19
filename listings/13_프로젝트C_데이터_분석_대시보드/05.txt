@@ -1,0 +1,16 @@
+data-dashboard/
+├── PLAN.md
+├── app.py                    # 메인 웹앱 (Streamlit)
+├── scripts/
+│   ├── data_loader.py        # 데이터 로드
+│   ├── analyzer.py           # 분석 엔진
+│   ├── visualizer.py         # 시각화
+│   ├── insights.py           # AI 인사이트
+│   └── reporter.py           # 리포트 생성
+├── templates/
+│   └── report_template.md
+├── uploads/                  # 업로드된 파일
+├── output/
+│   ├── charts/
+│   └── reports/
+└── requirements.txt

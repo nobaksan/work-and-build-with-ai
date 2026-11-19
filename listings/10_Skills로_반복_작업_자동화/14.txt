@@ -1,0 +1,8 @@
+blog-writer/
+├── SKILL.md
+├── templates/
+│ ├── short-post.md
+│ ├── medium-post.md
+│ └── long-post.md
+└── references/
+└── seo-guidelines.md

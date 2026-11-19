@@ -1,0 +1,10 @@
+# 일주일치 콘텐츠 한 번에 생성
+python scripts/batch.py --topics topics.json --week 2026-W09
+# topics.json 예시:
+{
+  "topics": [
+    {"topic": "AI 활용", "platforms": ["blog", "linkedin"]},
+    {"topic": "생산성", "platforms": ["twitter", "instagram"]},
+    {"topic": "자동화", "platforms": ["newsletter"]}
+  ]
+}

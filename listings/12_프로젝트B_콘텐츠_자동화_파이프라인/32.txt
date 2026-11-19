@@ -1,0 +1,13 @@
+각 플랫폼에 콘텐츠를 발행하는 스크립트:
+자동 발행 지원:
+- WordPress (REST API)
+- Medium (Integration Token)
+- Ghost (Admin API)
+수동 발행 준비:
+- LinkedIn (클립보드 복사 + 브라우저 열기)
+- Twitter (예약 도구 연동)
+- Instagram (Meta Business Suite 연동)
+기능:
+- 예약 발행 설정
+- 발행 상태 대시보드
+- 성과 추적 연동

@@ -1,0 +1,1 @@
+Q: ChatGPT랑 뭐가 달라요? A: Claude는 긴 문서 처리, 코딩, 분석에 강점이 있습니다. Claude Code/Cowork는 파일 시스템에 직접 접근할 수 있어 실제 자동화가 가능합니다.

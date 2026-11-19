@@ -1,0 +1,19 @@
+[프로젝트/분기/스프린트] 회고 문서를 작성해줘.
+회고 대상:
+- 기간: [기간]
+- 팀: [팀명]
+- 주요 목표: [당시 목표]
+- 결과: [실제 달성]
+회고 프레임워크: [선택]
+□ Start-Stop-Continue
+□ 4Ls (Liked, Learned, Lacked, Longed for)
+□ WWW (What went well / What didn't / What to improve)
+□ 5 Whys (근본 원인 분석)
+회고 문서 구성:
+1. 개요 (목표 vs 결과)
+2. 잘한 점 (Keep)
+3. 개선할 점 (Problems)
+4. 시도할 것 (Try)
+5. 배운 점 (Lessons Learned)
+6. 다음 액션 아이템
+팀 미팅에서 사용할 수 있게 토론 질문도 포함해줘.

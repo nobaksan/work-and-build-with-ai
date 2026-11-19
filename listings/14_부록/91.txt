@@ -1,0 +1,9 @@
+# 환경변수 확인
+echo $ANTHROPIC_API_KEY
+# 환경변수 설정 (일시적)
+export ANTHROPIC_API_KEY="your-api-key"
+# 환경변수 설정 (영구적 - Mac/Linux)
+echo 'export ANTHROPIC_API_KEY="your-api-key"' >> ~/.bashrc
+source ~/.bashrc
+# Windows
+setx ANTHROPIC_API_KEY "your-api-key"

@@ -1,0 +1,4 @@
+---
+name: image-optimizer
+description: 이미지 폴더를 지정한 너비로 줄이고 WEBP로 변환한다. 사진 용량을 줄이거나 웹용 이미지를 만들 때 쓴다.
+---

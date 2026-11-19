@@ -1,0 +1,1 @@
+Q: Claude Code 설치가 안 돼요 A: 공식 권장 방법인 네이티브 설치(curl -fsSL https://claude.ai/install.sh | bash, Windows는 irm https://claude.ai/install.ps1 | iex)는 Node.js가 필요 없습니다. npm으로 설치했다면 Node.js 22 이상이어야 하고, sudo는 쓰지 마세요(7.3절).

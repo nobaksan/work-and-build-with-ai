@@ -1,0 +1,8 @@
+python scripts/todo.py add "운동하기" --tag 건강 --repeat daily
+
+# 결과:
+반복 할 일을 추가했습니다.
+  [6] 운동하기
+  우선순위 보통  ·  마감 없음
+  태그 #건강
+  반복 매일

@@ -1,0 +1,9 @@
+my-skill/
+├── SKILL.md # 스킬 설명서 (필수)
+├── scripts/ # 실행 스크립트들
+│ ├── main.py
+│ └── helper.sh
+├── templates/ # 템플릿 파일들 (선택)
+│ └── output.md
+└── references/ # 참고 자료 (선택)
+└── examples.md

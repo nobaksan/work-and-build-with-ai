@@ -1,0 +1,8 @@
+{
+  "author": {
+    "name": "홍길동",
+    "expertise": ["AI", "생산성", "디지털 마케팅"],
+    "tone": "친근하지만 전문적"
+  },
+  "content": { "default_length": 2000, "language": "ko" }
+}

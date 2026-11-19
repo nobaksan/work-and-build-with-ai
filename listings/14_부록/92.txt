@@ -1,0 +1,9 @@
+# 디스크 사용량 확인
+df -h
+# 큰 파일 찾기
+du -sh * | sort -h
+# node_modules 정리
+npm cache clean --force
+# 불필요한 파일 삭제
+rm -rf node_modules
+npm install

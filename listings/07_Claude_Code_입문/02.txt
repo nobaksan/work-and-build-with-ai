@@ -1,0 +1,6 @@
+터미널이 열리면 이런 화면이 보입니다:
+
+Last login: Mon Feb 23 10:30:00 on ttys000
+username@MacBook-Pro ~ % _
+
+깜빡이는 커서(_)가 보이면 성공입니다!

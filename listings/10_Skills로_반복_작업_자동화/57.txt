@@ -1,0 +1,7 @@
+# 좋은 스크립트
+try:
+    process_file(input)
+except FileNotFoundError:
+    print(" 파일을 찾을 수 없습니다")
+except Exception as e:
+    print(f" 에러 발생: {e}")

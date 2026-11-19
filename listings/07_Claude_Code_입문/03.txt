@@ -1,0 +1,3 @@
+Windows Terminal이 열리면:
+
+C:\Users\username> _

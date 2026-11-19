@@ -1,0 +1,1 @@
+Q: 자동화를 예약 실행할 수 있나요? A: 네. Cowork는 /schedule이나 Scheduled 메뉴로 예약 작업을 만들고 클라우드에서 돌립니다(3장). Claude Code에도 정해진 간격으로 반복하는 /loop, 클라우드 예약 작업을 만드는 /schedule이 있고, Desktop 앱의 Code 탭에서도 예약할 수 있습니다. 내 컴퓨터에서 스크립트를 돌리고 싶다면 11장처럼 cron(Linux/Mac)이나 작업 스케줄러(Windows)를 써도 됩니다.

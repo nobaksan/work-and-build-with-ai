@@ -1,0 +1,30 @@
+# 1. 터미널 열기 (위의 방법 참고)
+
+# 2. 현재 위치 확인
+pwd
+# → /Users/username 같은 결과가 나옵니다
+
+# 3. 파일 목록 보기
+ls
+# → Desktop, Documents, Downloads 등이 보입니다
+
+# 4. Documents 폴더로 이동
+cd Documents
+
+# 5. 이동했는지 확인
+pwd
+# → /Users/username/Documents
+
+# 6. 새 폴더 만들기
+mkdir my-first-project
+
+# 7. 폴더가 만들어졌는지 확인
+ls
+# → my-first-project가 목록에 있어야 합니다
+
+# 8. 새 폴더로 이동
+cd my-first-project
+
+# 9. 현재 위치 다시 확인
+pwd
+# → /Users/username/Documents/my-first-project

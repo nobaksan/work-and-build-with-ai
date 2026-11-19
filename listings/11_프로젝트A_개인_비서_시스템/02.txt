@@ -1,0 +1,21 @@
+폴더 구조 요청
+개인비서 시스템 프로젝트를 시작할거야. 다음 구조로 폴더를 만들어줘:
+
+personal-assistant/
+├── PLAN.md               # 프로젝트 계획서
+├── README.md             # 사용 설명서
+├── config/
+│   ├── settings.json     # 기본 설정
+│   └── credentials/      # API 인증 정보 (gitignore)
+├── scripts/
+│   ├── calendar_sync.py  # 캘린더 연동
+│   ├── email_summary.py  # 이메일 요약
+│   ├── todo.py           # 할 일 관리
+│   └── daily_briefing.py # 통합 브리핑
+├── data/
+│   ├── todos.json        # 할 일 데이터
+│   └── history/          # 과거 브리핑 기록
+├── output/
+│   └── briefings/        # 생성된 브리핑 저장
+└── tests/
+    └── test_todo.py      # 테스트 코드

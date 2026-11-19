@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "홍길동",
+    "expertise": ["AI", "생산성", "디지털 마케팅"],
+    "tone": "친근하지만 전문적"
+  },
+  "content": {
+    "default_length": 1500,
+    "languages": ["ko", "en"],
+    "target_audience": "스타트업 종사자, 직장인"
+  },
+  "automation": {
+    "auto_research": true,
+    "auto_edit": true,
+    "require_approval_before_publish": true
+  }
+}

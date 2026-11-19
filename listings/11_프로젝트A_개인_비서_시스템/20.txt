@@ -1,0 +1,11 @@
+calendar_sync.py를 수정해서 다음 기능을 추가해줘:
+1. 여러 캘린더 지원
+   --calendar work (업무 캘린더만)
+   --calendar personal (개인 캘린더만)
+   --calendar all (전체)
+2. 일정 추가 기능
+   python scripts/calendar_sync.py add "회의" --date 2026-02-25 --time 14:00 --duration 1h
+3. 일정 충돌 감지
+   새 일정 추가 시 기존 일정과 겹치는지 확인
+4. 출퇴근 시간 고려
+   출근 전/퇴근 후 일정은 다른 색으로 표시

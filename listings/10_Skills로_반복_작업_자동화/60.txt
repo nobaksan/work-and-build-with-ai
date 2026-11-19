@@ -1,0 +1,2 @@
+.claude/skills/my-skill 폴더 안에 SKILL.md 파일이 있는지 확인해줘.
+없으면 만들어줘.

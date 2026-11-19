@@ -1,0 +1,3 @@
+image-optimizer 스킬을 사용해서
+test-images 폴더를 최적화해줘.
+너비는 800px, 품질은 70으로.

@@ -1,0 +1,2 @@
+mkdir -p .claude/skills/image-optimizer
+cd .claude/skills/image-optimizer

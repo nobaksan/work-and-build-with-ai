@@ -1,0 +1,7 @@
+{
+  "blog":      { "name": "WordPress", "max_length": 3000, "seo_required": true },
+  "linkedin":  { "name": "LinkedIn",  "max_length": 1300 },
+  "twitter":   { "name": "X",         "max_length": 280, "thread": 7 },
+  "instagram": { "name": "Instagram", "slides": 10 },
+  "newsletter":{ "name": "Newsletter","max_length": 800 }
+}

@@ -1,0 +1,2 @@
+clear    # Mac
+cls      # Windows

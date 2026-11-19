@@ -1,0 +1,18 @@
+#  아침: 데일리 브리핑 확인
+python scripts/daily_briefing.py
+
+#  업무 중: 할 일 추가
+python scripts/todo.py add "새로운 업무" --priority high --due tomorrow
+
+#  틈틈이: 새 이메일 확인
+python scripts/email_summary.py
+
+#  필요시: 오늘 일정 확인
+python scripts/calendar_sync.py
+
+#  퇴근 전: 완료 체크 (한 번에 하나씩)
+python scripts/todo.py done 1
+python scripts/todo.py done 2
+
+#  주간: 리뷰
+python scripts/weekly_review.py  # (11.8 확장 아이디어)

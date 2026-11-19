@@ -1,0 +1,5 @@
+브랜드 가이드라인의 색상 섹션을 작성해줘.
+형식:
+- Primary Color: #코드 / RGB값 / 사용처
+- Secondary Color: 동일 형식
+- Accent Color: 동일 형식

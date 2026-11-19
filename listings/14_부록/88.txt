@@ -1,0 +1,6 @@
+# 터미널을 새로 연 뒤 버전 확인
+claude --version
+# 안 나오면 네이티브 설치로 다시 설치 (Mac·Linux·WSL)
+curl -fsSL https://claude.ai/install.sh | bash
+# Windows PowerShell
+irm https://claude.ai/install.ps1 | iex

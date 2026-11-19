@@ -1,0 +1,1 @@
+claude plugin install 플러그인이름@마켓플레이스이름

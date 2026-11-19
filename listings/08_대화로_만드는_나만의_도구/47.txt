@@ -1,0 +1,3 @@
+pip install pandas
+# 또는
+pip3 install pandas

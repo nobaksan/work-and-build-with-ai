@@ -1,0 +1,16 @@
+Linux 자동 실행 설정 (cron)
+
+[설정 방법]
+
+# crontab 편집
+crontab -e
+
+# 다음 줄 추가 (매일 오전 7시)
+0 7 * * * cd /home/user/personal-assistant && /usr/bin/python3 scripts/daily_briefing.py >> logs/briefing.log 2>&1
+
+# 저장 후 종료 (:wq)
+
+# 확인
+crontab -l
+
+설정 완료!

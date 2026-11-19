@@ -1,0 +1,6 @@
+pdf-tools/
+├── SKILL.md
+└── scripts/
+├── merge.py
+├── split.py
+└── extract.py

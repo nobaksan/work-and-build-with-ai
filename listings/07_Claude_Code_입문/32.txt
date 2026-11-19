@@ -1,0 +1,5 @@
+> 이런 에러가 떠:
+> Uncaught ReferenceError: todoList is not defined
+> at script.js:15:5
+
+Claude가 문제를 분석하고 수정해줍니다.

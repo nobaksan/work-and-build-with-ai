@@ -1,0 +1,2 @@
+# 터미널에서 한 번 설정 (Mac·Linux)
+export ANTHROPIC_API_KEY="여기에-발급받은-키"

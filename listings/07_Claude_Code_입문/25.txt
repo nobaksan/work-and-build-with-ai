@@ -1,0 +1,8 @@
+# 생성된 파일 확인
+ls
+
+# 브라우저에서 열기 (Mac)
+open index.html
+
+# 브라우저에서 열기 (Windows)
+start index.html

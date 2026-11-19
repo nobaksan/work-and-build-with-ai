@@ -1,0 +1,23 @@
+# 기본 추가
+python scripts/todo.py add "보고서 작성"
+
+# 결과:
+할 일을 추가했습니다.
+  [1] 보고서 작성
+  우선순위 보통  ·  마감 없음
+
+# 우선순위와 마감일 지정
+python scripts/todo.py add "팀 미팅 자료 준비" --priority high --due tomorrow
+
+# 결과:
+할 일을 추가했습니다.
+  [2] 팀 미팅 자료 준비
+  우선순위 높음  ·  마감 2026-02-24 (화) (내일)
+
+# 오늘 마감으로 추가
+python scripts/todo.py add "경비 정산 제출" --priority high --due today
+
+# 결과:
+할 일을 추가했습니다.
+  [3] 경비 정산 제출
+  우선순위 높음  ·  마감 2026-02-23 (월) (오늘)

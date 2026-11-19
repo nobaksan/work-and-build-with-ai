@@ -1,0 +1,37 @@
+content-pipeline/
+├── PLAN.md                 # 프로젝트 계획
+├── config/
+│   ├── settings.json       # 전역 설정
+│   ├── platforms.json      # 플랫폼별 설정
+│   ├── prompts.json        # 재사용 프롬프트
+│   └── templates/          # 템플릿 모음
+│       ├── ideation.md
+│       ├── research.md
+│       └── editing.md
+├── scripts/
+│   ├── ideation.py         # 아이디어 생성
+│   ├── research.py         # 리서치
+│   ├── draft.py            # 초안 작성
+│   ├── edit.py             # 편집
+│   ├── optimize.py         # 플랫폼 최적화
+│   └── publish.py          # 발행
+├── templates/
+│   ├── blog_post.md        # 블로그 템플릿
+│   ├── linkedin_post.md    # 링크드인 템플릿
+│   ├── twitter_thread.md   # 트위터 쓰레드 템플릿
+│   ├── instagram.md        # 인스타그램 템플릿
+│   └── newsletter.md       # 뉴스레터 템플릿
+├── content/
+│   ├── ideas/              # 아이디어 저장소
+│   ├── research/           # 리서치 노트
+│   ├── drafts/             # 초안
+│   ├── reviewed/           # 검토 완료
+│   └── published/          # 발행 완료
+├── output/
+│   └── platforms/          # 플랫폼별 최종본
+│       ├── blog/
+│       ├── linkedin/
+│       ├── twitter/
+│       └── instagram/
+└── logs/
+    └── pipeline.log        # 실행 로그

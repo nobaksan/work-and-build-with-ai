@@ -1,0 +1,2 @@
+csv-tools 스킬로 sales_2024.csv와 sales_2023.csv를 하나로 합쳐줘.
+날짜 컬럼 기준으로 정렬하고.

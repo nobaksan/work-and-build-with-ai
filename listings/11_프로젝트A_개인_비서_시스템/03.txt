@@ -1,0 +1,11 @@
+프로젝트 구조를 생성했습니다.
+생성된 항목:
+personal-assistant/
+├──  PLAN.md (빈 파일)
+├──  README.md (빈 파일)
+├──  config/ (설정 폴더)
+├──  scripts/ (스크립트 폴더)
+├──  data/ (데이터 폴더)
+├──  output/briefings/ (출력 폴더)
+└──  tests/ (테스트 폴더)
+다음 단계: PLAN.md를 작성하시겠습니까?

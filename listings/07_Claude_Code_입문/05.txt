@@ -1,0 +1,5 @@
+cd Documents    # Documents 폴더로 이동
+cd my-project   # my-project 폴더로 이동
+cd ..           # 상위 폴더로 이동 (뒤로 가기)
+cd ~            # 홈 폴더로 이동 (처음 위치)
+cd              # 홈 폴더로 이동 (cd ~와 같음)

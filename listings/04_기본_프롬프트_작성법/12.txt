@@ -1,0 +1,3 @@
+다음 세 가지 노트북을 비교하는 표를 만들어줘:
+MacBook Air, Dell XPS, ThinkPad X1
+비교 항목: 가격, 무게, 배터리, 장점, 단점

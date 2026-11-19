@@ -1,0 +1,9 @@
+# 기본 실행
+python3 script_name.py
+# 인자와 함께 실행
+python3 script_name.py /path/to/folder
+# 실행 권한 부여 (Mac/Linux)
+chmod +x script_name.py
+./script_name.py
+# Windows에서 실행
+python script_name.py

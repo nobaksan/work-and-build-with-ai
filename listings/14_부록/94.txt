@@ -1,0 +1,9 @@
+# Streamlit 설치 확인
+pip show streamlit
+# 재설치
+pip install --upgrade streamlit
+# 포트 충돌 확인
+streamlit run app.py --server.port 8502
+# 가상환경 활성화 확인
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows

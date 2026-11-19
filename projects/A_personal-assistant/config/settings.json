@@ -1,0 +1,11 @@
+{
+  "user": { "name": "Allen", "timezone": "Asia/Seoul", "language": "ko" },
+  "briefing": {
+    "time": "07:00",
+    "include_weather": true,
+    "include_calendar": true,
+    "include_email": true,
+    "include_todo": true
+  },
+  "todo": { "default_priority": "medium", "show_completed": false }
+}

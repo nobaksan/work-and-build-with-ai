@@ -1,0 +1,27 @@
+{
+  "blog": {
+    "name": "WordPress",
+    "max_length": 3000,
+    "seo_required": true,
+    "image_count": 3,
+    "api_endpoint": "https://yoursite.com/wp-json/wp/v2"
+  },
+  "linkedin": {
+    "name": "LinkedIn",
+    "max_length": 1300,
+    "hashtag_count": 5,
+    "best_posting_time": "09:00"
+  },
+  "twitter": {
+    "name": "Twitter/X",
+    "max_length": 280,
+    "thread_max": 10,
+    "best_posting_time": "12:00"
+  },
+  "instagram": {
+    "name": "Instagram",
+    "max_length": 2200,
+    "hashtag_count": 30,
+    "carousel_slides": 10
+  }
+}

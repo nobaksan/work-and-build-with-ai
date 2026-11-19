@@ -1,0 +1,11 @@
+# ~/.bashrc 또는 ~/.zshrc에 추가
+alias brief="python ~/personal-assistant/scripts/daily_briefing.py"
+alias todo="python ~/personal-assistant/scripts/todo.py"
+alias cal="python ~/personal-assistant/scripts/calendar_sync.py"
+alias mail="python ~/personal-assistant/scripts/email_summary.py"
+
+# 사용:
+brief          # 데일리 브리핑
+todo add "..." # 할 일 추가
+cal today      # 오늘 일정
+mail           # 이메일 요약

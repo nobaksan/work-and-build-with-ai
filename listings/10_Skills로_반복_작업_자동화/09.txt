@@ -1,0 +1,2 @@
+.claude/skills 폴더 안에 meeting-summary라는 폴더를 만들어줘.
+그 안에 scripts 폴더와 templates 폴더도 만들어줘.

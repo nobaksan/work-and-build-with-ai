@@ -1,0 +1,1 @@
+Q: 팀원과 같이 쓸 수 있나요? A: Claude Team 플랜이 있습니다. Standard는 석당 월 $25(연간 결제 시 $20), Premium은 석당 월 $125(연간 $100)이고 Premium은 Standard의 5배를 씁니다(2026년 11월 기준). Slack을 쓰는 팀이라면 채널에서 Claude를 부르는 Claude Tag도 있습니다(3장).

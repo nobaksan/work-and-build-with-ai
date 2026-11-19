@@ -1,0 +1,2 @@
+file-organizer 스킬로 Downloads 폴더를 정리해줘.
+파일 종류별로 분류하고, 중복 파일도 찾아줘.

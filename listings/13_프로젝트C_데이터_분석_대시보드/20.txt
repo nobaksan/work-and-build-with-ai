@@ -1,0 +1,9 @@
+차트 생성 완료!
+생성된 차트 (5개):
+├── monthly_trend.png      (월별 매출 추이)
+├── category_pie.png       (카테고리별 비중)
+├── region_bar.png         (지역별 매출)
+├── correlation_heatmap.png (상관관계)
+└── distribution_hist.png  (매출 분포)
+저장 위치: output/charts/2026-02-23/
+인터랙티브 버전도 생성됨 (HTML)

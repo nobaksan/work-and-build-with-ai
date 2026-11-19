@@ -1,0 +1,7 @@
+# Git 사용 중이라면
+git checkout -- [파일명]
+git restore [파일명]
+# 최근 변경 확인
+git log --diff-filter=D --summary
+# 삭제된 파일 복구
+git checkout HEAD~1 -- [파일명]

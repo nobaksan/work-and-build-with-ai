@@ -1,0 +1,50 @@
+Google Calendar API 설정 가이드
+
+[1단계] Google Cloud Console 접속
+
+1. https://console.cloud.google.com 접속
+2. Google 계정으로 로그인
+3. 약관 동의 (처음인 경우)
+
+[2단계] 새 프로젝트 생성
+
+1. 상단 프로젝트 선택 드롭다운 클릭
+2. "새 프로젝트" 클릭
+3. 프로젝트 이름: "PersonalAssistant"
+4. "만들기" 클릭
+5. 생성까지 약 30초 대기
+
+주의: 프로젝트가 선택되어 있는지 확인!
+   상단에 "PersonalAssistant"가 보여야 합니다.
+
+[3단계] Calendar API 활성화
+
+1. 좌측 메뉴 → "API 및 서비스" → "라이브러리"
+2. 검색창에 "Google Calendar API" 입력
+3. "Google Calendar API" 클릭
+4. "사용" 버튼 클릭
+5. 활성화 완료 (녹색 체크 표시)
+
+[4단계] OAuth 동의 화면 설정
+
+1. 좌측 메뉴 → "OAuth 동의 화면"
+2. "외부" 선택 → "만들기"
+3. 앱 이름: "Personal Assistant"
+4. 사용자 지원 이메일: 본인 이메일
+5. 개발자 연락처: 본인 이메일
+6. "저장 후 계속" 클릭
+7. "대상"(또는 "테스트 사용자") 화면에서 본인 Google 계정을 테스트 사용자로 추가
+   이 단계를 빠뜨리면 인증 화면에서 403 access_denied 가 납니다
+
+[5단계] 사용자 인증 정보 생성
+
+1. 좌측 메뉴 → "사용자 인증 정보"
+2. "사용자 인증 정보 만들기" → "OAuth 클라이언트 ID"
+3. 애플리케이션 유형: "데스크톱 앱"
+4. 이름: "Personal Assistant Desktop"
+5. "만들기" 클릭
+6. "JSON 다운로드" 클릭
+7. 다운로드된 파일을 config/credentials/ 폴더에 저장
+8. 파일명을 "credentials.json"으로 변경
+
+설정 완료!

@@ -1,0 +1,2 @@
+data-viz 스킬로 monthly_sales.csv 데이터로
+월별 매출 추이 선 그래프를 만들어줘.

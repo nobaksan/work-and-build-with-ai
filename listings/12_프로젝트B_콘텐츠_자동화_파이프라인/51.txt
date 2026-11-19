@@ -1,0 +1,2 @@
+python scripts/optimizer.py --draft content/drafts/[파일명].md \
+  --platforms linkedin,twitter,instagram,newsletter

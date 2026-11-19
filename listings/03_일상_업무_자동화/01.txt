@@ -1,0 +1,9 @@
+Downloads/
+├── IMG_2847.jpg
+├── document(1).pdf
+├── document(2).pdf
+├── 최종_보고서_진짜최종_v3.docx
+├── Untitled.xlsx
+├── screenshot_20260215_143022.png
+├── ...
+└── (수백 개의 파일들)

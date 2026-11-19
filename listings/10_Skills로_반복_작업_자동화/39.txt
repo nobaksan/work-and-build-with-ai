@@ -1,0 +1,4 @@
+# 스킬 폴더에 복사
+cp -r downloaded-skill/ ~/.claude/skills/
+# 또는 git clone
+git clone https://github.com/user/skill-name ~/.claude/skills/skill-name

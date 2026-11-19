@@ -1,0 +1,16 @@
+.env
+.env.*
+!*.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+*.pem
+*.key
+# OAuth 클라이언트 시크릿·토큰(프로젝트 A 등) — 자기 키를 실수로 올리지 않게
+credentials/
+credentials.json
+token.json
+*.token

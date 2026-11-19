@@ -1,0 +1,8 @@
+project/
+├── PLAN.md # 전체 개요
+├── docs/
+│ ├── ARCHITECTURE.md # 시스템 설계
+│ ├── API.md # API 명세
+│ ├── DATABASE.md # 데이터베이스 설계
+│ └── DECISIONS.md # 주요 결정 사항
+└── ...

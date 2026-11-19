@@ -1,0 +1,18 @@
+ 할 일 목록 앱을 만들어볼게요.
+필요한 기능: 추가, 완료 체크, 삭제
+파일 구조를 계획하고 있어요...
+
+index.html 생성 중...
+· index.html 생성 완료
+style.css 생성 중...
+· style.css 생성 완료
+script.js 생성 중...
+· script.js 생성 완료
+
+완료! 생성된 파일:
+├── index.html (메인 페이지)
+├── style.css (디자인)
+└── script.js (기능)
+
+실행 방법:
+index.html 파일을 브라우저에서 열면 됩니다.

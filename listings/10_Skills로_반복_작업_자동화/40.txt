@@ -1,0 +1,7 @@
+# GitHub에 올리기
+cd ~/.claude/skills/my-awesome-skill
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/my-awesome-skill
+git push -u origin main

@@ -1,0 +1,1 @@
+Q: Cowork에서 인터넷 접근이 필요한데요? A: 웹 페이지를 열고 읽는 일은 내장 브라우저나 Claude in Chrome이 합니다. Cowork가 실행하는 명령(스크립트)이 인터넷에 접속하는 범위는 따로 네트워크 접근 설정으로 정해지니, 막혀 있다면 공식 안내(claude.com/docs/cowork/guide/network-access)를 보고 조정하세요. 회사 계정은 관리자가 정합니다.

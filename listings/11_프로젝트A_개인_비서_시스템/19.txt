@@ -1,0 +1,15 @@
+python scripts/calendar_sync.py next
+
+# 결과:
+다음 일정
+
+ 팀 스탠드업 미팅
+   오늘 09:00 - 10:00
+    Zoom 미팅
+   2시간 15분 후 시작
+   [1-Click 참여]
+   https://zoom.us/j/123456789
+
+준비사항:
+- 지난주 진행사항 정리
+- 이번주 계획 준비

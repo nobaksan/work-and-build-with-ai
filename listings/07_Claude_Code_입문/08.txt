@@ -1,0 +1,2 @@
+mkdir my-project       # my-project 폴더 생성
+mkdir "My Project"     # 공백이 있으면 따옴표 사용

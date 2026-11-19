@@ -1,0 +1,7 @@
+email-marketing/
+├── SKILL.md
+└── templates/
+├── newsletter.md
+├── promotion.md
+├── welcome.md
+└── followup.md

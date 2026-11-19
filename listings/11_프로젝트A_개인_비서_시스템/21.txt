@@ -1,0 +1,6 @@
+Gmail API도 연동해줘.
+Calendar API 설정할 때 만든 같은 프로젝트에서 추가하면 돼.
+
+추가 단계:
+1. API 라이브러리에서 "Gmail API" 활성화
+2. OAuth 범위에 Gmail 읽기 권한 추가

@@ -1,0 +1,5 @@
+# 압축 파일로 백업 (Mac)
+zip -r todo-app-backup.zip .
+
+# 다른 폴더에 복사
+cp -r . ~/Documents/backups/todo-app

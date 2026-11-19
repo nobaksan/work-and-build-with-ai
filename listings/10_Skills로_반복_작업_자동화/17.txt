@@ -1,0 +1,6 @@
+translate-proofread/
+├── SKILL.md
+└── templates/
+├── formal.md # 비즈니스 문서용
+├── casual.md # 블로그/SNS용
+└── technical.md # 기술 문서용

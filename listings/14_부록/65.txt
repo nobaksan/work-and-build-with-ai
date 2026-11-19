@@ -1,0 +1,1 @@
+Q: API 키는 어디서 받나요? A: Claude Console(platform.claude.com)에서 가입한 뒤 발급받습니다. API 사용료는 구독과 별도로 과금됩니다.

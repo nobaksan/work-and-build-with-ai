@@ -1,0 +1,5 @@
+daily-report/
+├── SKILL.md
+└── templates/
+├── standard.md
+└── detailed.md

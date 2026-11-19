@@ -1,0 +1,1 @@
+에러: ModuleNotFoundError: No module named 'pandas'

@@ -1,0 +1,1 @@
+Q: 만든 것을 공유할 수 있나요? A: 네! GitHub에 올리거나, 웹사이트의 경우 GitHub Pages, Vercel 등으로 무료 배포 가능합니다.

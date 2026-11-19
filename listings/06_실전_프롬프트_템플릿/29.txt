@@ -1,0 +1,37 @@
+다음 텍스트를 [목표 언어]로 번역해줘.
+원문:
+[번역할 텍스트]
+번역 가이드:
+- 스타일: [직역/의역/로컬라이징]
+- 전문 용어: [유지/번역/병기]
+- 어조: [원문 유지/조정]
+- 타겟 독자: [국가/문화권]
+번역 후 자연스러운지 검토하고,
+어색한 부분이 있으면 대안도 제시해줘.
+
+실제 사용 예시:
+다음 텍스트를 영어로 번역해줘.
+원문:
+"안녕하세요, 저희 서비스에 관심 가져주셔서 감사합니다.
+현재 무료 체험 기간이 종료되어 유료 결제가 필요합니다.
+결제 관련 문의사항은 고객센터로 연락 부탁드립니다."
+번역 가이드:
+- 스타일: 의역 (자연스럽게)
+- 전문 용어: 번역
+- 어조: 정중하면서 친근
+- 타겟 독자: 미국 비즈니스 사용자
+번역 후 자연스러운지 검토하고,
+어색한 부분이 있으면 대안도 제시해줘.
+
+결과물 샘플:
+번역: "Hello! Thank you for your interest in
+our service. Your free trial period has
+ended, and a paid subscription is now
+required to continue using our features.
+If you have any questions about payment,
+please don't hesitate to contact our
+customer support team."
+
+대안 표현:
+"please don't hesitate to" → "feel free to" (더 캐주얼하게)
+"paid subscription" → "upgrade to a paid plan" (더 자연스럽게)

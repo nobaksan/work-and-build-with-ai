@@ -1,0 +1,26 @@
+config/settings.json에 기본 설정 파일을 만들어줘:
+
+{
+  "user": {
+    "name": "사용자",
+    "timezone": "Asia/Seoul",
+    "language": "ko"
+  },
+  "briefing": {
+    "time": "07:00",
+    "include_weather": true,
+    "include_quote": true
+  },
+  "email": {
+    "max_summary": 10,
+    "categories": ["긴급", "중요", "일반", "스팸"]
+  },
+  "calendar": {
+    "lookahead_days": 7,
+    "reminder_minutes": 30
+  },
+  "todo": {
+    "priorities": ["high", "medium", "low"],
+    "default_priority": "medium"
+  }
+}

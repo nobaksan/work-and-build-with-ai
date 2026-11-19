@@ -1,0 +1,1 @@
+에러: PermissionError: [Errno 13] Permission denied

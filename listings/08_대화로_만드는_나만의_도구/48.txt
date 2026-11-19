@@ -1,0 +1,3 @@
+이런 에러가 났어:
+ModuleNotFoundError: No module named 'pandas'
+어떻게 해결해?

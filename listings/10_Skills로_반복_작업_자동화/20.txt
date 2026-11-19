@@ -1,0 +1,8 @@
+doc-templates/
+├── SKILL.md
+└── templates/
+├── proposal.md # 제안서
+├── report.md # 보고서
+├── email-formal.md # 공식 이메일
+├── email-follow.md # 팔로업 이메일
+└── presentation.md # 발표 자료 개요

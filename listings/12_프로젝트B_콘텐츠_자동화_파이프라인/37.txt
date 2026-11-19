@@ -1,0 +1,12 @@
+# 1. 아이디어 생성만
+python scripts/ideation.py --topic "AI 활용" --count 15
+# 2. 특정 아이디어로 리서치
+python scripts/research.py --idea "chatgpt-email" --depth deep
+# 3. 초안 작성 (리서치 기반)
+python scripts/draft.py --research content/research/2026-02-23_chatgpt-email.md
+# 4. 편집 (초안 기반)
+python scripts/edit.py --draft content/drafts/2026-02-23-chatgpt-email.md
+# 5. 플랫폼 최적화
+python scripts/optimize.py --source content/reviewed/2026-02-23-chatgpt-email.md --platforms all
+# 6. 발행 (특정 플랫폼만)
+python scripts/publish.py --platform wordpress --schedule "2026-02-25 09:00"

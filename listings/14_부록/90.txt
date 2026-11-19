@@ -1,0 +1,10 @@
+# 현재 위치 확인
+pwd
+# 파일 목록 확인
+ls -la
+# 숨김 파일 포함 확인
+ls -la
+# 올바른 폴더로 이동
+cd /path/to/folder
+# 파일 검색
+find . -name "파일명"

@@ -1,0 +1,7 @@
+잘 작동해! 몇 가지 옵션 추가하고 싶어:
+1. 리사이즈 크기를 내가 지정할 수 있게 (기본값 1920)
+2. 변환 형식 선택 (webp, jpg, png)
+3. 원본 보존 여부 선택
+4. --dry-run 옵션 (실제 실행 안 하고 미리보기)
+사용 예시:
+python image_tool.py photos/ --width 1280 --format jpg --keep-original

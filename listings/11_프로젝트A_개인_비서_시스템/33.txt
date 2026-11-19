@@ -1,0 +1,52 @@
+Mac 자동 실행 설정 (launchd)
+
+[1단계] plist 파일 생성
+
+<!-- ~/Library/LaunchAgents/com.user.dailybriefing.plist -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.dailybriefing</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/yourname/personal-assistant/
+         scripts/daily_briefing.py</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/Users/yourname/personal-assistant/logs/briefing.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/yourname/personal-assistant/
+         logs/briefing.error.log</string>
+</dict>
+</plist>
+
+[2단계] 서비스 등록
+
+# plist 파일 복사
+cp com.user.dailybriefing.plist ~/Library/LaunchAgents/
+
+# 서비스 로드
+launchctl load ~/Library/LaunchAgents/com.user.dailybriefing.plist
+
+# 확인
+launchctl list | grep dailybriefing
+
+[3단계] 테스트
+
+# 즉시 실행 테스트
+launchctl start com.user.dailybriefing
+
+# 로그 확인
+tail -f ~/personal-assistant/logs/briefing.log
+
+설정 완료! 매일 오전 7시에 자동 실행됩니다.

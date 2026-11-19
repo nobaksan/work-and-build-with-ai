@@ -1,0 +1,16 @@
+my-tools/
+├── scripts/
+│ ├── backup.py
+│ ├── image_processor.py
+│ ├── data_cleaner.py
+│ └── notion_sync.py
+├── config/
+│ ├── settings.json
+│ └── credentials/ (API 키 등 - git에 올리지 말 것!)
+├── logs/
+│ └── (실행 로그)
+├── data/
+│ ├── input/ (입력 파일)
+│ └── output/ (출력 파일)
+├── requirements.txt (필요한 라이브러리 목록)
+└── README.md (사용법 문서)

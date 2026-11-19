@@ -1,0 +1,29 @@
+# scripts/todo.py - Claude가 생성한 코드 (핵심 부분)
+import json
+import argparse
+from datetime import datetime, timedelta
+from pathlib import Path
+
+# 데이터 파일 경로
+DATA_FILE = Path(__file__).parent.parent / "data" / "todos.json"
+
+def load_todos():
+    """할 일 데이터 로드"""
+    if DATA_FILE.exists():
+        return json.loads(DATA_FILE.read_text(encoding='utf-8'))
+    return {"todos": [], "next_id": 1}
+
+def save_todos(data):
+    """할 일 데이터 저장"""
+    DATA_FILE.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2),
+        encoding='utf-8'
+    )
+
+def add_todo(content, priority="medium", due=None):
+    """새 할 일 추가"""
+    # ... 구현 ...
+
+def list_todos(filter_today=False, filter_priority=None):
+    """할 일 목록 표시"""
+    # ... 구현 ...

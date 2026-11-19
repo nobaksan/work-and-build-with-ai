@@ -1,0 +1,9 @@
+username@MacBook-Pro ~ % cd Documents
+
+• username: 지금 로그인한 사용자 이름
+• @MacBook-Pro: 컴퓨터 이름
+• ~: 현재 위치 (홈 폴더라는 뜻)
+• % 또는 $: "명령어를 입력하세요"라는 표시
+• cd Documents: 제가 입력한 명령어
+
+핵심: % 또는 $ 뒤에 명령어를 입력하고 Enter를 누르면 실행됩니다.

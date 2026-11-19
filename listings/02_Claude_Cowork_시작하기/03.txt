@@ -1,0 +1,18 @@
+Downloads 폴더 탐색 중...
+파일 목록 수집 중...
+분석 완료!
+
+Downloads 폴더 분석 결과:
+- 총 파일 수: 47개
+- 총 용량: 2.3GB
+
+파일 유형별 분류:
+├── PDF: 12개 (450MB)
+├── 이미지: 23개 (1.2GB)
+├── 문서: 8개 (120MB)
+└── 기타: 4개 (530MB)
+
+가장 큰 파일 Top 3:
+1. project_backup.zip (800MB)
+2. video_tutorial.mp4 (650MB)
+3. presentation.pptx (180MB)
